@@ -1,6 +1,5 @@
 <script context="module">
 	import Header from "$lib/header/Header.svelte";
-	export const prerender = true;
 </script>
 
 <svelte:head>
