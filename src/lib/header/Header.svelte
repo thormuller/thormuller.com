@@ -4,11 +4,6 @@
 </script>
 
 <header>
-	<div class="corner">
-		<a href="https://kit.svelte.dev">
-			<img src={logo} alt="SvelteKit" />
-		</a>
-	</div>
 
 	<nav>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -32,6 +27,10 @@
 		<!-- TODO put something else here? github link? -->
 	</div>
 </header>
+
+<h1 class="text-4xl font-nunitoxlight text-[#94D4CE] mt-10">
+	Thor Muller
+  </h1>
 
 <style>
 	header {
